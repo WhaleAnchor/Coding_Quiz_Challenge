@@ -26,13 +26,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Assignment
 
-![Andrew Choi's Password Generator website](/assets/images/screenshot.png "screenshot of password generator website")
+![Andrew Choi's Coding Quiz website](/assets/images/screenshot.png "screenshot of coding quiz main page")
 
 A website that allows users to test their knowledge on basic coding principles!
 * Starting the quiz brings the user to multiple choice questions.
 * The timer starts. If the user selects the wrong answer, then the timer will be deducted by 10 seconds.
 * Scores are displayed at the end and stored in local storage. 
 * Highscores are shown by pulling stored data.
+
+![Andrew Choi's Coding Quiz website](/assets/images/screenshot2.png "screenshot of coding quiz highscores")
 
 Here is a link to the repo <a href="https://github.com/WhaleAnchor/Coding_Quiz_Challenge">github.com/WhaleAnchor/Coding_Quiz_Challenge</a>
 

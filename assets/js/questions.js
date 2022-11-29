@@ -150,5 +150,5 @@ document.getElementById("home").addEventListener("click", () => {
 
 // Go to highscores page
 document.getElementById("highscores").addEventListener("click", () => {
-  window.location = "/highscores.html"
+  window.location = "./highscores.html"
 })
