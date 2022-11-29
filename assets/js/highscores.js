@@ -39,9 +39,9 @@ function displayScores() {
 // Calls for the scores to render on page
 displayScores();
 
-// Go back to home or resets the quiz
+// The top home button goes back home / the quiz page
 document.getElementById("home").addEventListener("click", () => {
-  window.location = "./"
+  window.location = "./index.html"
 })
 
 // Changes back to the index.html which is the main page
