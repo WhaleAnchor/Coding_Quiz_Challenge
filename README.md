@@ -30,13 +30,13 @@
 
 A website that allows users to test their knowledge on basic coding principles!
 * Starting the quiz brings the user to multiple choice questions.
-* The timer starts. If the user selects the wrong answer, then the timer will be deducted by 5 seconds.
+* The timer starts. If the user selects the wrong answer, then the timer will be deducted by 10 seconds.
 * Scores are displayed at the end and stored in local storage. 
 * Highscores are shown by pulling stored data.
 
-Here is a link to the repo <a href="https://github.com/WhaleAnchor/Coding-Quiz">github.com/WhaleAnchor/Coding-Quiz</a>
+Here is a link to the repo <a href="https://github.com/WhaleAnchor/Coding_Quiz_Challenge">github.com/WhaleAnchor/Coding_Quiz_Challenge</a>
 
-Here is a link to the deployed URL <a href="https://whaleanchor.github.io/Coding-Quiz/">whaleanchor.github.io/Coding-Quiz/</a>
+Here is a link to the deployed URL <a href="https://whaleanchor.github.io/Coding_Quiz_Challenge/">whaleanchor.github.io/Coding_Quiz_Challenge/</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -57,7 +57,7 @@ Here is a link to the deployed URL <a href="https://whaleanchor.github.io/Coding
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/WhaleAnchor/Coding-Quiz
+   git clone https://github.com/WhaleAnchor/Coding_Quiz_Challenge
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -78,7 +78,7 @@ Open the HTML file in a browser (Google Chrome).
 
 Andrew Choi - andrewsungwoochoi@gmail.com
 
-Project Link: [https://github.com/WhaleAnchor/Coding-Quiz](https://github.com/WhaleAnchor/Coding-Quiz)
+Project Link: [https://github.com/WhaleAnchor/Coding_Quiz_Challenge](https://github.com/WhaleAnchor/Coding_Quiz_Challenge)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
