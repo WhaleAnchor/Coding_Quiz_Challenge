@@ -145,7 +145,7 @@ startBtn.addEventListener('click', startQuiz)
 
 // Go back to home page or reset the quiz
 document.getElementById("home").addEventListener("click", () => {
-  window.location = "/"
+  window.location = "./"
 })
 
 // Go to highscores page

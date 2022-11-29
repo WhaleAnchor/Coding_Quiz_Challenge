@@ -41,7 +41,7 @@ displayScores();
 
 // Go back to home or resets the quiz
 document.getElementById("home").addEventListener("click", () => {
-  window.location = "/"
+  window.location = "./"
 })
 
 // Changes back to the index.html which is the main page
