@@ -135,7 +135,7 @@ function endGame() {
     localStorage.setItem('score', JSON.stringify(recentScores))
     
     form.remove()
-    window.location = "/highscores.html";
+    window.location = "./highscores.html";
 
   })
 }
